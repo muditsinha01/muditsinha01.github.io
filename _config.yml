@@ -1,0 +1,24 @@
+title: Hitchhiker's Guide to Cetaceans
+description: "Marine biology for everyone (with a geek toggle)"
+url: "https://yourusername.github.io"
+baseurl: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Author info
+author:
+  name: Mudit Sinha
+  email: muditsinha01@gmail.com
+
+# Permalink structure
+permalink: /:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

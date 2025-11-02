@@ -1,0 +1,194 @@
+/* Ocean palette */
+:root {
+  --ocean: #0a2e36;
+  --sea: #167c9a;
+  --foam: #e8f6f9;
+  --coral: #ff6f61;
+  --deep: #102a43;
+  --light-gray: #f7f9fa;
+}
+
+/* Base styling */
+body {
+  background: #fff;
+  color: var(--deep);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+}
+
+/* Links */
+a {
+  color: var(--sea);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: var(--ocean);
+  text-decoration: underline;
+}
+
+/* Header */
+.site-header {
+  background: var(--ocean);
+  border-top: 5px solid var(--coral);
+}
+
+.site-title,
+.site-title:visited {
+  color: var(--foam) !important;
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+.site-title:hover {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+.site-nav .page-link {
+  color: var(--foam);
+}
+
+.site-nav .page-link:hover {
+  color: #fff;
+}
+
+/* Post content improvements */
+.post-content h2 {
+  color: var(--ocean);
+  margin-top: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid var(--foam);
+}
+
+.post-content h3 {
+  color: var(--sea);
+  margin-top: 1.5em;
+}
+
+/* Images */
+.post-content img {
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 1.5em 0;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Photo credits */
+.photo-credit {
+  font-size: 0.85em;
+  color: #666;
+  font-style: italic;
+  margin-top: -1em;
+  margin-bottom: 2em;
+  display: block;
+}
+
+/* Geek toggle button */
+.geek-toggle {
+  background: var(--sea);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.95em;
+  font-weight: 500;
+  margin: 2em 0 1em 0;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.geek-toggle:hover {
+  background: var(--ocean);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.geek-toggle:active {
+  transform: translateY(0);
+}
+
+/* Geek content section */
+.geek-content {
+  background: var(--foam);
+  padding: 2em;
+  border-left: 4px solid var(--sea);
+  margin: 1em 0 2em 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.geek-content h2 {
+  color: var(--ocean);
+  margin-top: 0;
+  border-bottom: none;
+}
+
+.geek-content h3 {
+  color: var(--sea);
+  margin-top: 1.5em;
+}
+
+.geek-content ul {
+  margin-left: 1.5em;
+}
+
+/* Post list styling */
+.post-list > li {
+  margin-bottom: 2em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid var(--light-gray);
+}
+
+.post-list > li:last-child {
+  border-bottom: none;
+}
+
+.post-meta {
+  color: #666;
+  font-size: 0.9em;
+}
+
+.post-link {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: var(--ocean);
+}
+
+.post-link:hover {
+  color: var(--sea);
+}
+
+/* Mobile responsiveness */
+@media screen and (max-width: 600px) {
+  .geek-content {
+    padding: 1.5em;
+  }
+  
+  .post-content h2 {
+    font-size: 1.5em;
+  }
+  
+  .geek-toggle {
+    width: 100%;
+    padding: 14px;
+  }
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background: var(--sea);
+  color: white;
+}
+
+::-moz-selection {
+  background: var(--sea);
+  color: white;
+}
