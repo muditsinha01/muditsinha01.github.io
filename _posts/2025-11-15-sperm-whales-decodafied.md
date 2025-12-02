@@ -3,10 +3,58 @@ layout: post
 title: "Sperm Whales De-Codafied"
 date: 2025-11-15
 excerpt: "Sperm whales have one of the most sophisticated communication systems on Earth—with dialects, grammar, and cultural transmission that rivals our own. Let's dive into the beautiful language of clicks."
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sperm_whale_mother_and_calf_%28Physeter_macrocephalus%29.jpg/1200px-Sperm_whale_mother_and_calf_%28Physeter_macrocephalus%29.jpg"
 ---
 
-![Sperm whale pod at surface](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mother_and_baby_sperm_whale.jpg/1280px-Mother_and_baby_sperm_whale.jpg)
-<p class="photo-credit">Photo: Gabriel Barathieu, Wikimedia Commons (CC BY-SA 2.0)</p>
+<style>
+/* Toggle Button Styles */
+.geek-toggle-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 100;
+}
+
+.geek-toggle {
+    background: #0a2e36;
+    color: #00ffcc;
+    border: 1px solid #00ffcc;
+    padding: 8px 15px;
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.geek-toggle:hover {
+    background: #00ffcc;
+    color: #0a2e36;
+    box-shadow: 0 0 10px rgba(0, 255, 204, 0.5);
+}
+
+.geek-content {
+    background: #f4fcfc;
+    border-left: 5px solid #0a2e36;
+    padding: 20px;
+    margin: 30px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Ensure the parent container has relative positioning for the absolute button to work */
+.post-content, article {
+    position: relative;
+}
+</style>
+
+<!-- Toggle Button Top Right -->
+<div class="geek-toggle-container">
+    <button class="geek-toggle" onclick="toggleGeek()">🔬 Show Scientific Geek Version</button>
+</div>
+
+![Sperm whale mother and calf underwater](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sperm_whale_mother_and_calf_%28Physeter_macrocephalus%29.jpg/1200px-Sperm_whale_mother_and_calf_%28Physeter_macrocephalus%29.jpg)
+<p class="photo-credit">Photo: Gabriel Barathieu (Wikimedia Commons)</p>
 
 Sperm Whales are very fascinating creatures—they are one of the few creatures on this planet with an oral culture rivaling or even surpassing our own oral cultures in some ways. That sensational claim might not turn out to be so sensational as we dive deep into the beautiful language of sperm whales.
 
@@ -14,8 +62,8 @@ Sperm Whales are very fascinating creatures—they are one of the few creatures 
 
 ## Sperm Whales Know Grammar?
 
-![Sperm whale underwater profile](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sperm_whale_pod.jpg/1280px-Sperm_whale_pod.jpg)
-<p class="photo-credit">Photo: Gabriel Barathieu, Wikimedia Commons (CC BY-SA 2.0)</p>
+![Social group of sperm whales at surface](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sperm_whale_pod.jpg/1280px-Sperm_whale_pod.jpg)
+<p class="photo-credit">Photo: Gabriel Barathieu / Wikimedia Commons</p>
 
 **Coda** refers to a patterned series of clicks which are unique to sperm whales. It comes from the Latin word *cauda* which translates to "tail" and is a bit uninspired and frankly seems a little lazy. 
 
@@ -39,8 +87,8 @@ Then each clan has a deeper distinct identity in their clicks which is unique to
 
 **Non-identity codas** are where things get more interesting. Codas can have variations in rhythm, tempo, and sequence (1+1+3 means something different than 1+3+1). These suggest that there is a **grammatical element** to the click lexicon, similar to how we have rules in our languages.
 
-![Sperm whale social pod](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Physeter_macrocephalus_with_calf.jpg/1280px-Physeter_macrocephalus_with_calf.jpg)
-<p class="photo-credit">Photo: NOAA, Wikimedia Commons (Public Domain)</p>
+![Sperm whale fluke showing distinctive triangular shape](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sperm_Whale_Pico_Isle_D_Azores_2003.jpg/1280px-Sperm_Whale_Pico_Isle_D_Azores_2003.jpg)
+<p class="photo-credit">Photo: Wikimedia Commons (Public Domain)</p>
 
 ### Cross-Mingling: The Immigrant Children Effect
 
@@ -56,8 +104,8 @@ Sperm whales tend to stay in their own clans. Very rarely have researchers seen 
 
 ## Memory of a Sperm Whale
 
-![Sperm whale size comparison](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sperm_whale_size.svg/1280px-Sperm_whale_size.svg.png)
-<p class="photo-credit">Diagram: Chris huh, Wikimedia Commons (CC BY-SA 3.0)</p>
+![Diagram of Sperm Whale Head Anatomy](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sperm_whale_head_anatomy.svg/1024px-Sperm_whale_head_anatomy.svg.png)
+<p class="photo-credit">Diagram: Kurzon / Wikimedia Commons</p>
 
 To understand this more, we must delve into the brain of the sperm whale.
 
@@ -87,8 +135,8 @@ Their communication shows a balance of identity and coexistence, built on memory
 
 ## Kinder than Most Humans?
 
-![Sperm whale mother and calf](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sperm_whale_fluke.jpg/1280px-Sperm_whale_fluke.jpg)
-<p class="photo-credit">Photo: Gabriel Barathieu, Wikimedia Commons (CC BY-SA 2.0)</p>
+![Sperm whale resting vertically](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sperm_whales_sleeping.jpg/800px-Sperm_whales_sleeping.jpg)
+<p class="photo-credit">Photo: Stephane Granzotto / Wikimedia Commons</p>
 
 What makes sperm whales and other cetaceans unique is the fact that they have a large concentration of **Von Economo Neurons (VENs)** in their anterior cingulate cortex (ACC) and fronto-insular cortex (FI).
 
@@ -97,8 +145,6 @@ This is important because humans and great apes have a similar concentration of 
 In other words: whales evolved the same emotional hardware we did, independently. They feel, remember, and socialize with a sophistication that rivals our own.
 
 ---
-
-<button class="geek-toggle" onclick="toggleGeek()">🔬 Show Scientific Geek Version</button>
 
 <div class="geek-content" style="display:none;">
 
@@ -168,6 +214,7 @@ function toggleGeek() {
   }
 }
 
+// Check preference on load
 window.addEventListener('DOMContentLoaded', () => {
   if (localStorage.getItem('geek-mode') === 'visible') {
     toggleGeek();
