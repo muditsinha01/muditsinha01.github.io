@@ -9,12 +9,11 @@ Welcome, ocean friend! This is your friendly field guide to whales, dolphins, an
 
 Every week, we explore the latest research on cetacean behavior and biology—with photos, stories, and a **Scientific Geek Version** for those who want the deeper dive into methods and findings.
 
----
+<div class="about-section">
 
 ## About Me
 
-![Profile Photo](https://via.placeholder.com/200x200/0a2e36/e8f6f9?text=Your+Photo)
-<p class="photo-credit">Replace with your photo</p>
+![Profile Photo](https://via.placeholder.com/150x150/0a2e36/e8f6f9?text=Your+Photo)
 
 **AI engineer/researcher diving deep into cetacean communication and bioacoustics.**
 
@@ -24,6 +23,6 @@ This blog is where machine learning meets marine biology. I break down the lates
 
 Think of it as marine mammal science written by someone who spends too much time thinking about spectrograms, convolutional networks, and whether GPT-4 could ever understand a sperm whale coda.
 
----
+</div>
 
 ## Latest Posts
