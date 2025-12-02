@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Sperm Whales De-Codafied"
-date: 2025-12-02
+date: 2025-11-15
+excerpt: "Sperm whales have one of the most sophisticated communication systems on Earth—with dialects, grammar, and cultural transmission that rivals our own. Let's dive into the beautiful language of clicks."
 ---
 
 ![Sperm whale pod at surface](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mother_and_baby_sperm_whale.jpg/1280px-Mother_and_baby_sperm_whale.jpg)
 <p class="photo-credit">Photo: Gabriel Barathieu, Wikimedia Commons (CC BY-SA 2.0)</p>
-
-## Introduction
 
 Sperm Whales are very fascinating creatures—they are one of the few creatures on this planet with an oral culture rivaling or even surpassing our own oral cultures in some ways. That sensational claim might not turn out to be so sensational as we dive deep into the beautiful language of sperm whales.
 
@@ -38,12 +37,7 @@ Then each clan has a deeper distinct identity in their clicks which is unique to
 
 ### Non-Identity Codas: Where It Gets Interesting
 
-**Non-identity codas** are where things get more interesting. Codas can have variations in:
-- **Rhythm**
-- **Tempo** 
-- **Sequence** (1+1+3 means something different than 1+3+1)
-
-These suggest that there is a **grammatical element** to the click lexicon, similar to how we have rules in our languages.
+**Non-identity codas** are where things get more interesting. Codas can have variations in rhythm, tempo, and sequence (1+1+3 means something different than 1+3+1). These suggest that there is a **grammatical element** to the click lexicon, similar to how we have rules in our languages.
 
 ![Sperm whale social pod](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Physeter_macrocephalus_with_calf.jpg/1280px-Physeter_macrocephalus_with_calf.jpg)
 <p class="photo-credit">Photo: NOAA, Wikimedia Commons (Public Domain)</p>
@@ -62,7 +56,7 @@ Sperm whales tend to stay in their own clans. Very rarely have researchers seen 
 
 ## Memory of a Sperm Whale
 
-![Sperm whale brain comparison](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sperm_whale_size.svg/1280px-Sperm_whale_size.svg.png)
+![Sperm whale size comparison](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sperm_whale_size.svg/1280px-Sperm_whale_size.svg.png)
 <p class="photo-credit">Diagram: Chris huh, Wikimedia Commons (CC BY-SA 3.0)</p>
 
 To understand this more, we must delve into the brain of the sperm whale.
@@ -75,12 +69,7 @@ The **temporal lobe** is the part of the human brain that is responsible for pro
 
 **1. Spindle Neurons (Von Economo Neurons)**
 
-Sperm whales have an extremely high concentration of spindle neurons. This enables them to be:
-- Self-aware
-- Capable of rapid social/emotional decision making
-- Able to maintain memory of social context
-
-This is what allows them to remember and track complex social relationships and navigate their complex lives.
+Sperm whales have an extremely high concentration of spindle neurons. This enables them to be self-aware, capable of rapid social/emotional decision making, and able to maintain memory of social context. This is what allows them to remember and track complex social relationships and navigate their complex lives.
 
 **2. Hypertrophied Auditory Cortex**
 
@@ -88,9 +77,7 @@ Their auditory cortex is highly advanced—it is **hypertrophied**, which is wha
 
 ### Why No Language Divergence?
 
-All of this means that sperm whales never needed to develop completely separate proto-languages for each clan. 
-
-With their enormous memory, emotional intelligence, and precision hearing, they are always aware of the clans around them and can recognize and remember them without confusion. 
+All of this means that sperm whales never needed to develop completely separate proto-languages for each clan. With their enormous memory, emotional intelligence, and precision hearing, they are always aware of the clans around them and can recognize and remember them without confusion. 
 
 Human languages split apart because people were separated across continents and cultures, but **whales were never truly isolated**. They live in overlapping ranges, constantly in contact through sound. Even though they carry strong clan identities, they are not hostile toward one another—their divisions are symbolic, not aggressive. 
 
@@ -119,84 +106,40 @@ In other words: whales evolved the same emotional hardware we did, independently
 
 ### Coda Classification & Structure
 
-**Identity Codas:**
-- Clan-specific patterns (analogous to dialects)
-- Stable across generations (vertical transmission)
-- Used for group identification in multi-clan environments
-- Example: Caribbean clans vs. Pacific clans have distinct identity coda repertoires
+**Identity Codas:** Clan-specific patterns (analogous to dialects), stable across generations (vertical transmission), used for group identification in multi-clan environments.
 
-**Non-Identity Codas:**
-- Variable patterns used for social communication
-- Show plasticity in inter-clan interactions
-- Evidence of combinatorial syntax (rhythm + tempo + sequence)
-- Inter-click intervals (ICI) carry semantic information
+**Non-Identity Codas:** Variable patterns used for social communication, show plasticity in inter-clan interactions, evidence of combinatorial syntax (rhythm + tempo + sequence), inter-click intervals (ICI) carry semantic information.
 
 ### Neural Architecture
 
-**Temporal Lobe:**
-- Volume: ~8,000 cm³ (vs. ~1,350 cm³ in humans)
-- Highly elaborated paralimbic structures
-- Expanded association cortices for auditory processing
+**Temporal Lobe:** Volume ~8,000 cm³ (vs. ~1,350 cm³ in humans), highly elaborated paralimbic structures, expanded association cortices for auditory processing.
 
-**Von Economo Neurons (VENs):**
-- Density in ACC: 3x higher than great apes
-- Present in FI cortex (fronto-insular)
-- Associated with rapid emotional processing and social awareness
-- First described by Constantin von Economo (1926)
+**Von Economo Neurons (VENs):** Density in ACC 3x higher than great apes, present in FI cortex (fronto-insular), associated with rapid emotional processing and social awareness.
 
-**Auditory Cortex:**
-- Hypertrophied compared to body size
-- Tonotopic organization optimized for click discrimination
-- Can resolve temporal differences <1 millisecond
-- Frequency range: 0.1–32 kHz (social clicks ~2–20 kHz)
+**Auditory Cortex:** Hypertrophied compared to body size, tonotopic organization optimized for click discrimination, can resolve temporal differences <1 millisecond, frequency range 0.1–32 kHz (social clicks ~2–20 kHz).
 
 ### Linguistic Analysis: Why No Divergence?
 
-**The Paradox:**
-Human languages diverge under isolation (e.g., Proto-Indo-European → 400+ languages over 6,000 years). Sperm whale clans maintain stable identity codas despite thousands of years of contact.
+**The Paradox:** Human languages diverge under isolation (Proto-Indo-European → 400+ languages over 6,000 years). Sperm whale clans maintain stable identity codas despite thousands of years of contact.
 
 **Proposed Mechanisms:**
-
-1. **Acoustic Transparency**: Ocean sound propagation allows passive monitoring of neighboring clans without direct contact
-2. **Cognitive Capacity**: Neural substrate supports simultaneous recognition of multiple dialects without interference
-3. **Low Selection Pressure**: No resource competition between clans (different hunting grounds, non-territorial)
-4. **Cultural Stability**: Identity codas serve social cohesion, not information transmission
-
-### Comparative Cognition
-
-**Convergent Evolution with Primates:**
-- VEN distribution mirrors great apes
-- Self-recognition (mirror test: inconclusive due to echolocation interference)
-- Theory of mind: suggested by coordinated hunting behavior
-- Cultural transmission: confirmed via matrilineal coda inheritance
-
-**Divergent Evolution from Humans:**
-- No tool use (ecological niche doesn't require it)
-- Acoustic rather than visual communication
-- Aquatic environment constrains social dynamics (3D space, fluid medium)
+1. **Acoustic Transparency** - Ocean sound propagation allows passive monitoring
+2. **Cognitive Capacity** - Neural substrate supports simultaneous recognition of multiple dialects
+3. **Low Selection Pressure** - No resource competition between clans
+4. **Cultural Stability** - Identity codas serve social cohesion, not information transmission
 
 ### Key Papers
 
-- **CETI (Cetacean Translation Initiative)**. (2024). "Contextual and combinatorial structure in sperm whale vocalizations." *Nature Communications*.
-- **Whitehead, H., & Rendell, L.** (2015). *The Cultural Lives of Whales and Dolphins*. University of Chicago Press.
-- **Butti, C., et al.** (2009). "Total number and volume of Von Economo neurons in the cerebral cortex of cetaceans." *Journal of Comparative Neurology*, 515(2), 243–259.
-- **Gero, S., et al.** (2016). "Behavior and social structure of the sperm whales of Dominica." *Marine Mammal Science*, 32(2), 451–472.
-- **Rendell, L., & Whitehead, H.** (2003). "Vocal clans in sperm whales." *Proceedings of the Royal Society B*, 270(1512), 225–231.
+- CETI (Cetacean Translation Initiative). (2024). "Contextual and combinatorial structure in sperm whale vocalizations." *Nature Communications*.
+- Whitehead, H., & Rendell, L. (2015). *The Cultural Lives of Whales and Dolphins*. University of Chicago Press.
+- Butti, C., et al. (2009). "Total number and volume of Von Economo neurons in the cerebral cortex of cetaceans." *Journal of Comparative Neurology*, 515(2), 243–259.
+- Gero, S., et al. (2016). "Behavior and social structure of the sperm whales of Dominica." *Marine Mammal Science*, 32(2), 451–472.
 
 ### Tools & Databases
 
 - [CETI Project](https://www.projectceti.org/)
 - [Watkins Marine Mammal Sound Database](https://cis.whoi.edu/science/B/whalesounds/)
 - [Ocean Networks Canada Hydrophones](https://www.oceannetworks.ca/)
-- [Macaulay Library (Cornell)](https://www.macaulaylibrary.org/)
-
-### Open Questions
-
-1. **Semantic Content**: What information is encoded in non-identity codas?
-2. **Cross-Clan Communication**: Can clans understand each other's identity codas, or only their own?
-3. **Developmental Timeline**: At what age do calves master clan-specific patterns?
-4. **Evolutionary Origin**: When did proto-codas first emerge? (Fossil record is silent on vocalizations)
-5. **Translation**: Can we ever decode the "meaning" of individual codas, or only their structure?
 
 ### My Take
 
@@ -225,7 +168,6 @@ function toggleGeek() {
   }
 }
 
-// Restore user preference on page load
 window.addEventListener('DOMContentLoaded', () => {
   if (localStorage.getItem('geek-mode') === 'visible') {
     toggleGeek();
