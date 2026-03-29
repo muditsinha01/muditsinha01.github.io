@@ -1,5 +1,5 @@
 title: Hitchhiker's Guide to Cetaceans
-description: "Marine biology meets machine learning — exploring cetacean communication and bioacoustics"
+description: "A blog exploring cetacean communication, bioacoustics, and marine intelligence. Sperm whale codas, whale brains, and the science of ocean language."
 url: "https://muditsinha01.github.io"
 baseurl: ""
 
@@ -8,10 +8,27 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 author: Mudit Sinha
 
 permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Mudit Sinha"
+      image: "/assets/images/whale-mother-calf.jpg"
+
+twitter:
+  card: summary_large_image
+
+social:
+  name: Mudit Sinha
+  links:
+    - https://github.com/muditsinha01
 
 exclude:
   - README.md
