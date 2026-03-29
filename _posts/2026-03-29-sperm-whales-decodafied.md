@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Sperm Whales De-Codafied"
-date: 2025-11-15
-excerpt: "Sperm whales have one of the most sophisticated communication systems on Earth—with dialects, grammar, and cultural transmission that rivals our own. Let's dive into the beautiful language of clicks."
+date: 2026-03-29
+author: Mudit Sinha
+excerpt: "Sperm whales have one of the most sophisticated communication systems on Earth, with dialects, grammar, and cultural transmission that rivals our own. Let's dive into the beautiful language of clicks."
 image: "/assets/images/whale-mother-calf.jpg"
 ---
 
@@ -11,14 +12,14 @@ image: "/assets/images/whale-mother-calf.jpg"
   <p class="image-caption">Photo: Gabriel Barathieu / CC BY-SA 2.0</p>
 </div>
 
-Sperm Whales are very fascinating creatures—they are one of the few creatures on this planet with an oral culture rivaling or even surpassing our own oral cultures in some ways. That sensational claim might not turn out to be so sensational as we dive deep into the beautiful language of sperm whales.
+Sperm Whales are very fascinating creatures. They are one of the few creatures on this planet with an oral culture rivaling or even surpassing our own oral cultures in some ways. That sensational claim might not turn out to be so sensational as we dive deep into the beautiful language of sperm whales.
 
 ---
 
 ## Sperm Whales Know Grammar?
 
 <div class="image-block">
-  <img src="/assets/images/whale-codas.jpg" alt="Sperm whale coda communication with phonetic symbols">
+  <img src="/assets/images/whale-codas.jpeg" alt="Sperm whale coda communication with phonetic symbols">
 </div>
 
 **Coda** refers to a patterned series of clicks which are unique to sperm whales. It comes from the Latin word *cauda* which translates to "tail" and is a bit uninspired and frankly seems a little lazy.
@@ -32,7 +33,7 @@ In a broad sense, codas can be broken down into two distinct categories: there a
   <p class="image-caption">Photo: Gabriel Barathieu / CC BY-SA 2.0</p>
 </div>
 
-To understand codas, we must first understand the social structure of sperm whales. They have long-standing groups called **clans**—similar to our concept of tribes. And much like tribes, they also pass information through the spoken word, or in their case, clicks.
+To understand codas, we must first understand the social structure of sperm whales. They have long-standing groups called **clans**, similar to our concept of tribes. And much like tribes, they also pass information through the spoken word, or in their case, clicks.
 
 That's where **identity codas** come in. It's a way for sperm whales to create an "identity" of their own. This is them saying: *"Hey, this is us, not to be confused with those other sperm whales who also live in the same area."*
 
@@ -40,7 +41,7 @@ Each of these identity codas are distinct enough from each other to be classifie
 
 ### The Proto-Language of Clicks
 
-All of these clans have the same basis of communication: a series of clicks ranging from 3 to up to 40 clicks. This can be treated as the **proto-language**—similar to how Proto-Indo-Aryan language is the great-great-grandparent of English, Russian, and many other languages.
+All of these clans have the same basis of communication: a series of clicks ranging from 3 to up to 40 clicks. This can be treated as the **proto-language**, similar to how Proto-Indo-Aryan language is the great-great-grandparent of English, Russian, and many other languages.
 
 Then each clan has a deeper distinct identity in their clicks which is unique to them. This would be equivalent to Proto-Indo-Iranian, which is inherited by their future generations and carried forward in that manner.
 
@@ -52,7 +53,7 @@ Then each clan has a deeper distinct identity in their clicks which is unique to
 
 Sperm whales have an even more interesting capability: they are able to **cross-mingle codas**. This means that identity codas remain stable or become more distinct when they meet other clans, but they're able to modify the non-identity codas to match or blend other clans' speaking styles.
 
-It's similar to how immigrant children treat their parents' language—they will try to interject English rules on Hindi or Spanish, for example, which would make the sentence more English-stylized. Similarly, sperm whales pick up the rhythm, tone, and pauses due to either close proximity of another clan or coming across a different clan frequently.
+It's similar to how immigrant children treat their parents' language. They will try to interject English rules on Hindi or Spanish, for example, which would make the sentence more English-stylized. Similarly, sperm whales pick up the rhythm, tone, and pauses due to either close proximity of another clan or coming across a different clan frequently.
 
 Sperm whales tend to stay in their own clans. Very rarely have researchers seen behavior indicating otherwise, but due to their excellent hearing, they pick up sounds from nearby clans.
 
@@ -63,7 +64,7 @@ Sperm whales tend to stay in their own clans. Very rarely have researchers seen 
 ## Memory of a Sperm Whale
 
 <div class="image-block">
-  <img src="/assets/images/whale-sound-anatomy.jpg" alt="How a sperm whale produces and receives sound">
+  <img src="/assets/images/whale-sound-anatomy.png" alt="How a sperm whale produces and receives sound">
 </div>
 
 To understand this more, we must delve into the brain of the sperm whale.
@@ -84,13 +85,13 @@ Sperm whales have an extremely high concentration of spindle neurons. This enabl
 
 **2. Hypertrophied Auditory Cortex**
 
-Their auditory cortex is highly advanced—it is **hypertrophied**, which is what enables them to navigate the complex systems of clicks and remember them. Their cortex is so highly specialized that they can pick up small and precise changes in the clicks and differentiate between the patterns.
+Their auditory cortex is highly advanced. It is **hypertrophied**, which is what enables them to navigate the complex systems of clicks and remember them. Their cortex is so highly specialized that they can pick up small and precise changes in the clicks and differentiate between the patterns.
 
 ### Why No Language Divergence?
 
 All of this means that sperm whales never needed to develop completely separate proto-languages for each clan. With their enormous memory, emotional intelligence, and precision hearing, they are always aware of the clans around them and can recognize and remember them without confusion.
 
-Human languages split apart because people were separated across continents and cultures, but **whales were never truly isolated**. They live in overlapping ranges, constantly in contact through sound. Even though they carry strong clan identities, they are not hostile toward one another—their divisions are symbolic, not aggressive.
+Human languages split apart because people were separated across continents and cultures, but **whales were never truly isolated**. They live in overlapping ranges, constantly in contact through sound. Even though they carry strong clan identities, they are not hostile toward one another. Their divisions are symbolic, not aggressive.
 
 Their communication shows a balance of identity and coexistence, built on memory, awareness, and recognition.
 
@@ -99,7 +100,7 @@ Their communication shows a balance of identity and coexistence, built on memory
 ## Kinder than Most Humans?
 
 <div class="image-block">
-  <img src="/assets/images/whale-fluke.jpg" alt="Sperm whale fluke">
+  <img src="/assets/images/whale-fluke.jpeg" alt="Sperm whale fluke">
 </div>
 
 What makes sperm whales and other cetaceans unique is the fact that they have a large concentration of **Von Economo Neurons (VENs)** in their anterior cingulate cortex (ACC) and fronto-insular cortex (FI).
