@@ -10,9 +10,7 @@ plugins:
   - jekyll-seo-tag
 
 # Author info
-author:
-  name: Mudit Sinha
-  email: muditsinha01@gmail.com
+author: Mudit Sinha
 
 # Permalink structure
 permalink: /:year/:month/:day/:title/
