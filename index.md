@@ -6,7 +6,7 @@ title: Welcome
 <div class="hero-section">
   <div class="hero-content">
     <div class="hero-avatar-wrapper">
-      <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Mudit Sinha" class="hero-avatar">
+      <img src="https://avatars.githubusercontent.com/u/55638747?v=4" alt="Mudit Sinha" class="hero-avatar">
     </div>
     <h1 class="hero-title">Hitchhiker's Guide to Cetaceans</h1>
     <p class="hero-subtitle">AI engineer diving deep into cetacean communication and bioacoustics.<br>Where machine learning meets marine biology.</p>
