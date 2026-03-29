@@ -1,6 +1,6 @@
 title: Hitchhiker's Guide to Cetaceans
 description: "Marine biology meets machine learning — exploring cetacean communication and bioacoustics"
-url: "https://yourusername.github.io"
+url: "https://muditsinha01.github.io"
 baseurl: ""
 
 theme: minima
@@ -9,13 +9,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Author info
 author: Mudit Sinha
 
-# Permalink structure
 permalink: /:year/:month/:day/:title/
 
-# Exclude from processing
 exclude:
   - README.md
   - Gemfile

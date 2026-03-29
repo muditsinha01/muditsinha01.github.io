@@ -1,6 +1,3 @@
-/* ===========================
-   VARIABLES
-   =========================== */
 :root {
   --ocean: #0a2e36;
   --sea: #167c9a;
@@ -13,9 +10,6 @@
   --bg: #fff;
 }
 
-/* ===========================
-   BASE
-   =========================== */
 body {
   background: var(--bg);
   color: var(--text);
@@ -29,62 +23,31 @@ body {
   padding: 0 20px;
 }
 
-a {
-  color: var(--ocean);
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
+a { color: var(--ocean); text-decoration: none; transition: color 0.2s ease; }
+a:hover { color: var(--sea); }
 
-a:hover {
-  color: var(--sea);
-  text-decoration: underline;
-}
-
-/* ===========================
-   SITE HEADER
-   =========================== */
+/* Header */
 .site-header {
   background: var(--ocean);
   border-top: 4px solid var(--coral);
   padding: 12px 0;
 }
+.site-title, .site-title:visited { color: #fff !important; font-weight: 600; font-size: 1.3em; }
+.site-title:hover { color: #fff !important; text-decoration: none; }
+.site-nav .page-link { color: rgba(255,255,255,0.8); }
+.site-nav .page-link:hover { color: #fff; }
 
-.site-title,
-.site-title:visited {
-  color: #fff !important;
-  font-weight: 600;
-  font-size: 1.3em;
-}
-
-.site-title:hover {
-  color: #fff !important;
-  text-decoration: none;
-}
-
-.site-nav .page-link {
-  color: rgba(255, 255, 255, 0.8);
-}
-
-.site-nav .page-link:hover {
-  color: #fff;
-}
-
-/* ===========================
-   HOME HEADER (SUBSTACK STYLE)
-   =========================== */
+/* HOME HEADER */
 .home-header {
   padding: 2.5rem 0 1.5rem;
   border-bottom: 1px solid var(--border);
-  margin-bottom: 0;
 }
-
 .home-header-inner {
   display: flex;
   align-items: center;
   gap: 1rem;
   margin-bottom: 1rem;
 }
-
 .home-avatar {
   width: 64px;
   height: 64px;
@@ -92,7 +55,6 @@ a:hover {
   object-fit: cover;
   flex-shrink: 0;
 }
-
 .home-title {
   font-size: 1.6rem;
   font-weight: 700;
@@ -100,13 +62,11 @@ a:hover {
   margin: 0;
   line-height: 1.2;
 }
-
 .home-byline {
   font-size: 0.9rem;
   color: var(--text-light);
   margin: 0.2rem 0 0;
 }
-
 .home-bio {
   font-size: 0.95rem;
   color: var(--text-light);
@@ -114,13 +74,8 @@ a:hover {
   margin: 0;
 }
 
-/* ===========================
-   POST LIST (SUBSTACK STYLE)
-   =========================== */
-.home-posts {
-  padding: 0;
-}
-
+/* POST LIST (SUBSTACK STYLE) */
+.home-posts { padding: 0; }
 .post-row {
   display: flex;
   align-items: flex-start;
@@ -131,21 +86,9 @@ a:hover {
   color: inherit;
   transition: background-color 0.15s ease;
 }
-
-.post-row:hover {
-  background-color: #fafafa;
-  text-decoration: none !important;
-}
-
-.post-row:hover .post-row-title {
-  color: var(--sea);
-}
-
-.post-row-text {
-  flex: 1;
-  min-width: 0;
-}
-
+.post-row:hover { background-color: #fafafa; text-decoration: none !important; }
+.post-row:hover .post-row-title { color: var(--sea); }
+.post-row-text { flex: 1; min-width: 0; }
 .post-row-date {
   font-size: 0.75rem;
   color: #999;
@@ -154,7 +97,6 @@ a:hover {
   display: block;
   margin-bottom: 0.3rem;
 }
-
 .post-row-title {
   font-size: 1.3rem;
   font-weight: 700;
@@ -163,14 +105,12 @@ a:hover {
   line-height: 1.3;
   transition: color 0.2s ease;
 }
-
 .post-row-excerpt {
   font-size: 0.9rem;
   color: var(--text-light);
   line-height: 1.5;
   margin: 0;
 }
-
 .post-row-thumb {
   width: 140px;
   height: 100px;
@@ -180,22 +120,15 @@ a:hover {
   flex-shrink: 0;
 }
 
-/* ===========================
-   POST CONTENT (ARTICLE PAGE)
-   =========================== */
-.post-content {
-  margin-top: 2em;
-}
-
+/* POST CONTENT */
+.post-content { margin-top: 2em; }
 .post-content h2 {
   color: var(--deep);
   margin-top: 2.5em;
   margin-bottom: 0.6em;
   font-size: 1.6em;
   font-weight: 700;
-  line-height: 1.3;
 }
-
 .post-content h3 {
   color: var(--ocean);
   margin-top: 1.8em;
@@ -203,161 +136,53 @@ a:hover {
   font-size: 1.2em;
   font-weight: 600;
 }
-
 .post-content p {
   margin-bottom: 1.3em;
   line-height: 1.8;
   font-size: 1.05rem;
 }
-
-.post-content ul, .post-content ol {
-  margin-bottom: 1.2em;
-  margin-left: 1.5em;
-}
-
-.post-content li {
-  margin-bottom: 0.4em;
-  line-height: 1.7;
-}
-
-.post-content hr {
-  margin: 2.5em 0;
-  border: none;
-  border-top: 1px solid var(--border);
-}
-
-.post-content strong {
-  color: var(--deep);
-}
-
-/* Blog post images */
+.post-content ul, .post-content ol { margin-bottom: 1.2em; margin-left: 1.5em; }
+.post-content li { margin-bottom: 0.4em; line-height: 1.7; }
+.post-content hr { margin: 2.5em 0; border: none; border-top: 1px solid var(--border); }
+.post-content strong { color: var(--deep); }
 .post-content img {
-  border-radius: 6px;
+  border-radius: 8px;
   margin: 1.5em auto 0.5em;
   max-width: 100%;
   height: auto;
   display: block;
 }
 
-/* Image blocks */
-.image-block {
-  margin: 2em 0;
-  text-align: center;
-}
+.image-block { margin: 2em 0; text-align: center; }
+.image-block img { border-radius: 8px; max-width: 100%; height: auto; }
+.image-caption { font-size: 0.8em; color: #999; font-style: italic; margin-top: 0.5em; }
 
-.image-block img {
-  border-radius: 6px;
-  max-width: 100%;
-  height: auto;
-}
+.post-header { margin-bottom: 1.5em; padding-bottom: 1.5em; border-bottom: 1px solid var(--border); }
+.post-title { font-size: 2.2em; line-height: 1.2; margin-bottom: 0.2em; color: var(--deep); font-weight: 700; }
+.post-meta { color: #999; font-size: 0.9em; }
 
-.image-caption {
-  font-size: 0.8em;
-  color: #999;
-  font-style: italic;
-  margin-top: 0.5em;
-}
+/* FOOTER */
+.site-footer { border-top: 1px solid var(--border); padding: 2rem 0; margin-top: 3rem; }
+.footer-title { font-weight: 700; color: var(--deep); margin-bottom: 0.25rem; font-size: 0.95rem; }
+.footer-desc { color: #999; font-size: 0.85rem; line-height: 1.5; }
+.footer-col-wrapper { display: flex; justify-content: center; text-align: center; }
 
-/* Post header */
-.post-header {
-  margin-bottom: 1.5em;
-  padding-bottom: 1.5em;
-  border-bottom: 1px solid var(--border);
-}
+/* Hide Minima's default post list */
+.post-list { display: none; }
+h2.post-list-heading { display: none; }
+p.rss-subscribe { display: none; }
 
-.post-title {
-  font-size: 2.2em;
-  line-height: 1.2;
-  margin-bottom: 0.2em;
-  color: var(--deep);
-  font-weight: 700;
-}
-
-.post-meta {
-  color: #999;
-  font-size: 0.9em;
-}
-
-/* ===========================
-   FOOTER (CLEAN)
-   =========================== */
-.site-footer {
-  border-top: 1px solid var(--border);
-  padding: 2rem 0;
-  margin-top: 3rem;
-}
-
-.footer-title {
-  font-weight: 700;
-  color: var(--deep);
-  margin-bottom: 0.25rem;
-  font-size: 0.95rem;
-}
-
-.footer-desc {
-  color: #999;
-  font-size: 0.85rem;
-  line-height: 1.5;
-}
-
-.footer-col-wrapper {
-  display: flex;
-  justify-content: center;
-  text-align: center;
-}
-
-/* Hide Minima default post list on home layout */
-.post-list {
-  display: none;
-}
-
-/* ===========================
-   MOBILE
-   =========================== */
+/* MOBILE */
 @media screen and (max-width: 600px) {
-  .home-title {
-    font-size: 1.3rem;
-  }
-
-  .home-avatar {
-    width: 48px;
-    height: 48px;
-  }
-
-  .post-row {
-    gap: 1rem;
-  }
-
-  .post-row-title {
-    font-size: 1.1rem;
-  }
-
-  .post-row-thumb {
-    width: 100px;
-    height: 72px;
-  }
-
-  .post-title {
-    font-size: 1.8em;
-  }
-
-  .post-content h2 {
-    font-size: 1.4em;
-  }
-
-  .post-content p {
-    font-size: 1rem;
-  }
+  .home-title { font-size: 1.3rem; }
+  .home-avatar { width: 48px; height: 48px; }
+  .post-row { gap: 1rem; }
+  .post-row-title { font-size: 1.1rem; }
+  .post-row-thumb { width: 100px; height: 72px; }
+  .post-title { font-size: 1.8em; }
+  .post-content h2 { font-size: 1.4em; }
+  .post-content p { font-size: 1rem; }
 }
 
-/* ===========================
-   UTILITY
-   =========================== */
-html {
-  scroll-behavior: smooth;
-}
-
-::selection {
-  background: var(--sea);
-  color: white;
-}
+html { scroll-behavior: smooth; }
+::selection { background: var(--sea); color: white; }

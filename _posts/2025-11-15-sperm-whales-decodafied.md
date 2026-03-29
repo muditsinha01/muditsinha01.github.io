@@ -3,12 +3,11 @@ layout: post
 title: "Sperm Whales De-Codafied"
 date: 2025-11-15
 excerpt: "Sperm whales have one of the most sophisticated communication systems on Earth—with dialects, grammar, and cultural transmission that rivals our own. Let's dive into the beautiful language of clicks."
-image: "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=800&q=80"
+image: "/assets/images/whale-hero.svg"
 ---
 
 <div class="image-block">
-  <img src="https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=1200&q=80" alt="Sperm whale underwater">
-  <p class="image-caption">Photo: Unsplash</p>
+  <img src="/assets/images/whale-hero.svg" alt="Whale in the deep ocean">
 </div>
 
 Sperm Whales are very fascinating creatures—they are one of the few creatures on this planet with an oral culture rivaling or even surpassing our own oral cultures in some ways. That sensational claim might not turn out to be so sensational as we dive deep into the beautiful language of sperm whales.
@@ -18,8 +17,7 @@ Sperm Whales are very fascinating creatures—they are one of the few creatures 
 ## Sperm Whales Know Grammar?
 
 <div class="image-block">
-  <img src="https://images.unsplash.com/photo-1454991727061-be514eae86f7?w=1200&q=80" alt="Whale at the ocean surface">
-  <p class="image-caption">Photo: Unsplash</p>
+  <img src="/assets/images/ocean-pod.svg" alt="Pod of whales in the ocean">
 </div>
 
 **Coda** refers to a patterned series of clicks which are unique to sperm whales. It comes from the Latin word *cauda* which translates to "tail" and is a bit uninspired and frankly seems a little lazy.
@@ -34,11 +32,6 @@ That's where **identity codas** come in. It's a way for sperm whales to create a
 
 Each of these identity codas are distinct enough from each other to be classified as **dialects**, as stated by CETI's latest research.
 
-<div class="image-block">
-  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80" alt="Deep blue ocean">
-  <p class="image-caption">Photo: Unsplash</p>
-</div>
-
 ### The Proto-Language of Clicks
 
 All of these clans have the same basis of communication: a series of clicks ranging from 3 to up to 40 clicks. This can be treated as the **proto-language**—similar to how Proto-Indo-Aryan language is the great-great-grandparent of English, Russian, and many other languages.
@@ -48,6 +41,10 @@ Then each clan has a deeper distinct identity in their clicks which is unique to
 ### Non-Identity Codas: Where It Gets Interesting
 
 **Non-identity codas** are where things get more interesting. Codas can have variations in rhythm, tempo, and sequence (1+1+3 means something different than 1+3+1). These suggest that there is a **grammatical element** to the click lexicon, similar to how we have rules in our languages.
+
+<div class="image-block">
+  <img src="/assets/images/ocean-waves.svg" alt="Ocean waves">
+</div>
 
 ### Cross-Mingling: The Immigrant Children Effect
 
@@ -64,8 +61,7 @@ Sperm whales tend to stay in their own clans. Very rarely have researchers seen 
 ## Memory of a Sperm Whale
 
 <div class="image-block">
-  <img src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&q=80" alt="Ocean depths">
-  <p class="image-caption">Photo: Unsplash</p>
+  <img src="/assets/images/ocean-deep.svg" alt="Deep ocean">
 </div>
 
 To understand this more, we must delve into the brain of the sperm whale.
@@ -97,8 +93,7 @@ Their communication shows a balance of identity and coexistence, built on memory
 ## Kinder than Most Humans?
 
 <div class="image-block">
-  <img src="https://images.unsplash.com/photo-1570913149827-d2ac84ab3f9a?w=1200&q=80" alt="Whale tail above water">
-  <p class="image-caption">Photo: Unsplash</p>
+  <img src="/assets/images/whale-tail.svg" alt="Whale tail">
 </div>
 
 What makes sperm whales and other cetaceans unique is the fact that they have a large concentration of **Von Economo Neurons (VENs)** in their anterior cingulate cortex (ACC) and fronto-insular cortex (FI).
