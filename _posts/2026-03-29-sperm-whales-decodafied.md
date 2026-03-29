@@ -18,6 +18,10 @@ Sperm Whales are very fascinating creatures. They are one of the few creatures o
 
 ## Sperm Whales Know Grammar?
 
+<div class="image-block image-block-full">
+  <img src="/assets/images/whale-codas.jpeg" alt="Sperm whale coda communication with phonetic symbols">
+</div>
+
 **Coda** refers to a patterned series of clicks which are unique to sperm whales. It comes from the Latin word *cauda* which translates to "tail" and is a bit uninspired and frankly seems a little lazy.
 
 In a broad sense, codas can be broken down into two distinct categories: there are **identity** and **non-identity** codas.
@@ -37,7 +41,7 @@ All of these clans have the same basis of communication: a series of clicks rang
 Then each clan has a deeper distinct identity in their clicks which is unique to them. This would be equivalent to Proto-Indo-Iranian, which is inherited by their future generations and carried forward in that manner.
 
 <div class="image-block image-block-full">
-  <img src="/assets/images/whale-codas.jpeg" alt="Sperm whale coda communication with phonetic symbols">
+  <img src="/assets/images/whale-sound-anatomy.png" alt="How a sperm whale produces and receives sound">
 </div>
 
 ### Non-Identity Codas: Where It Gets Interesting
@@ -70,10 +74,6 @@ Sperm whales tend to stay in their own clans. Very rarely have researchers seen 
 To understand this more, we must delve into the brain of the sperm whale.
 
 ### The Temporal Lobe Advantage
-
-<div class="image-block image-block-full">
-  <img src="/assets/images/whale-sound-anatomy.png" alt="How a sperm whale produces and receives sound">
-</div>
 
 The **temporal lobe** is the part of the human brain that is responsible for processing memory, language, and auditory information. Not only do whales have extremely developed temporal lobes, but they also have the **largest brain of any animal** to currently exist. This gives them a vast neural substrate to work with, which means that they're far more efficient at recalling, storing, and fetching memories than any human.
 

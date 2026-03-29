@@ -144,7 +144,7 @@ a:hover { color: var(--sea); }
   color: var(--ocean);
   margin-top: 1.8em;
   margin-bottom: 0.5em;
-  font-size: 1.2em;
+  font-size: 1.05em;
   font-weight: 600;
 }
 .post-content p {
@@ -166,8 +166,8 @@ a:hover { color: var(--sea); }
 
 .image-block { margin: 2em 0; text-align: center; }
 .image-block img { border-radius: 8px; max-width: 100%; height: auto; }
-.image-block-full { margin: 2.5em 0; }
-.image-block-full img { border-radius: 10px; width: 100%; max-width: none; }
+.image-block-full { margin: 2.5em -3rem; padding: 0; }
+.image-block-full img { border-radius: 10px; width: calc(100% + 0px); max-width: none; display: block; }
 .image-caption { font-size: 0.8em; color: #999; font-style: italic; margin-top: 0.5em; }
 
 .post-header { margin-bottom: 1.5em; padding-bottom: 1.5em; border-bottom: 1px solid var(--border); }
