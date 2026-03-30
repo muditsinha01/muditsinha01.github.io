@@ -165,9 +165,11 @@ a:hover { color: var(--sea); }
 }
 
 .image-block { margin: 2em 0; text-align: center; }
-.image-block img { border-radius: 8px; max-width: 100%; height: auto; }
-.image-block-full { margin: 2.5em -3rem; padding: 0; }
-.image-block-full img { border-radius: 10px; width: calc(100% + 0px); max-width: none; display: block; }
+.image-block img { border-radius: 8px; max-width: 100%; height: auto; image-rendering: auto; }
+.image-block-full { margin: 2.5em 0; }
+.image-block-full img { border-radius: 10px; max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.image-block-sm { margin: 2em auto; max-width: 70%; }
+.image-block-sm img { border-radius: 8px; max-width: 100%; height: auto; display: block; margin: 0 auto; }
 .image-caption { font-size: 0.8em; color: #999; font-style: italic; margin-top: 0.5em; }
 
 .post-header { margin-bottom: 1.5em; padding-bottom: 1.5em; border-bottom: 1px solid var(--border); }

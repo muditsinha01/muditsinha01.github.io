@@ -99,7 +99,7 @@ Their communication shows a balance of identity and coexistence, built on memory
 
 ## Kinder than Most Humans?
 
-<div class="image-block image-block-full">
+<div class="image-block image-block-sm">
   <img src="/assets/images/whale-fluke.jpeg" alt="Sperm whale fluke">
 </div>
 
