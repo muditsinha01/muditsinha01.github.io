@@ -6,7 +6,7 @@ description: "A blog about cetacean communication, bioacoustics, and marine inte
 
 <div class="home-header">
   <div class="home-header-inner">
-    <img src="https://avatars.githubusercontent.com/u/55638747?v=4" alt="Mudit Sinha" class="home-avatar">
+    <img src="/assets/images/mudit-sinha.png" alt="Mudit Sinha" class="home-avatar">
     <div class="home-header-text">
       <h1 class="home-title">Hitchhiker's Guide to Cetaceans</h1>
       <p class="home-byline">By <strong>Mudit Sinha</strong></p>
